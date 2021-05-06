@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ushing,
+- 👋 Hi, I’m Ushing Marma form Bandarban, Bangladesh.
 - 👀 I’m interested in Game development(Unity3d).
 - 🌱 I’m currently learning of HTML5/ Javascript.
 - 💞️ I’m looking to collaborate on video game industry.
